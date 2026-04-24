@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    android:background="#F8F9FA">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Ajustes de YapeVoz"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:textColor="#8A05BE"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginBottom="32dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Velocidad (Lento - Rápido)"
+        android:textStyle="bold"
+        android:textColor="#333333" />
+
+    <SeekBar
+        android:id="@+id/sbSpeed"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="24dp"
+        android:max="200"
+        android:progress="100" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tono (Grave - Agudo)"
+        android:textStyle="bold"
+        android:textColor="#333333" />
+    <SeekBar
+        android:id="@+id/sbPitch"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:max="200"
+        android:progress="100"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="32dp" />
+
+    <Button
+        android:id="@+id/btnPruebaVoz"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:text="🎧 Escuchar Prueba"
+        android:backgroundTint="#00C853"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="16dp" />
+
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#DDDDDD"
+        android:layout_marginVertical="16dp" />
+
+    <Button
+        android:id="@+id/btnAbrirAjustes"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Permisos de Android"
+        android:backgroundTint="#8A05BE"
+        android:textAllCaps="false" />
+
+</LinearLayout>
