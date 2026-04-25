@@ -2,7 +2,7 @@
   <img src="screenshots/icon.png" alt="YapeVoz Banner" width="20%">
 </p>
 
-<h1 align="center">YapeVoz🎤</h1>
+<h1 align="center">QapariqVoz🎤</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Android-5.0%2B-00C853?style=for-the-badge&logo=android&logoColor=white" alt="Android Version">
@@ -15,9 +15,9 @@
 
 ## 💡 Sobre el Proyecto
 
-**YapeVoz** no es solo un lector de notificaciones; es una herramienta de utilidad y accesibilidad diseñada para mejorar el flujo de trabajo de pequeños y medianos negocios que utilizan Yape.
+**QapariqVoz** no es solo un lector de notificaciones; es una herramienta de utilidad y accesibilidad diseñada para mejorar el flujo de trabajo de pequeños y medianos negocios que utilizan Yape.
 
-En un entorno comercial ruidoso o cuando el dueño está ocupado atendiendo, no siempre es posible mirar el celular para confirmar un pago. YapeVoz soluciona esto utilizando el motor de **Text-to-Speech (TTS)** nativo de Android para narrar de forma instantánea y en tiempo real el **nombre y monto** de cada pago recibido, sin necesidad de interrumpir las tareas actuales.
+En un entorno comercial ruidoso o cuando el dueño está ocupado atendiendo, no siempre es posible mirar el celular para confirmar un pago. QapariqVoz soluciona esto utilizando el motor de **Text-to-Speech (TTS)** nativo de Android para narrar de forma instantánea y en tiempo real el **nombre y monto** de cada pago recibido, sin necesidad de interrumpir las tareas actuales.
 
 
 ---
@@ -52,7 +52,7 @@ En un entorno comercial ruidoso o cuando el dueño está ocupado atendiendo, no 
 
 Este proyecto y sus contenidos no están afiliados, financiados, autorizados, respaldados por, ni asociados de ninguna manera con **Yape**, **Banco de Crédito del Perú (BCP)**, ni ninguna de sus filiales.
 
-**Privacidad:** YapeVoz opera localmente en el dispositivo. Solo lee el texto de las notificaciones para convertirlas en audio. No almacena, transmite, ni recopila datos personales o de transacciones fuera del dispositivo del usuario. Es una herramienta de utilidad pura.
+**Privacidad:** QapariqVoz opera localmente en el dispositivo. Solo lee el texto de las notificaciones para convertirlas en audio. No almacena, transmite, ni recopila datos personales o de transacciones fuera del dispositivo del usuario. Es una herramienta de utilidad pura.
 
 ---
 
