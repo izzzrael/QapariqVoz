@@ -1,4 +1,4 @@
-package com.example.yapevoz
+package com.example.qapariqvoz
 
 import org.junit.Test
 
